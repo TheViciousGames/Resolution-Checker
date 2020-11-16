@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#DC3030">
+
+    <TextView
+        android:id="@+id/resolutionTextViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="@string/resolution"
+        android:layout_above="@id/resolutionInfoTextView"
+        android:layout_marginBottom="10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        />
+
+    <TextView
+        android:id="@+id/resolutionTextView"
+        android:layout_above="@+id/realResolutionTextViewTitle"
+        android:layout_marginBottom="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="35sp"
+        android:textColor="#fff"
+        />
+
+    <TextView
+        android:id="@+id/resolutionInfoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/resolutionTextView"
+        android:textColor="#fff"
+        android:layout_marginBottom="30dp"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:text="@string/gets_the_size_of_the_display_in_pixels_value_showed_here_does_not_necessarily_represent_the_actual_raw_size_native_resolution_of_the_display"
+        />
+
+    <TextView
+        android:id="@+id/realResolutionTextViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="@string/real_resolution"
+        android:layout_marginTop="50dp"
+        android:layout_centerInParent="true"
+        android:textColor="#fff"
+        />
+    <TextView
+        android:id="@+id/realResolutionInfoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/realResolutionTextViewTitle"
+        android:textColor="#fff"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:text="@string/size_of_the_display_without_subtracting_any_window_decor_or_applying_any_compatibility_scale_factors"
+        />
+
+    <TextView
+        android:id="@+id/realResolutionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="35sp"
+        android:layout_marginTop="30sp"
+        android:layout_centerInParent="true"
+        android:textColor="#fff"
+        android:layout_below="@+id/realResolutionInfoTextView"
+        />
+
+    <Button
+        android:id="@+id/refreshButton"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/refresh"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="110dp"
+        android:background="@drawable/custom_button"
+        />
+
+    <Button
+        android:id="@+id/goToWebsite"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:text="@string/website"
+        android:textColor="#fff"
+        android:fontFamily="@font/press_start_2p"
+        android:textStyle="bold"
+        android:background="#DC3030"
+        />
+
+</RelativeLayout>

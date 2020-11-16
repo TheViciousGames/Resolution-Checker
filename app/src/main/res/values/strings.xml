@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resolution Checker</string>
+    <string name="website">PRESS HERE\n\ntheviciousgames.com</string>
+    <string name="resolution">RESOLUTION</string>
+    <string name="real_resolution">REAL RESOLUTION</string>
+    <string name="refresh">Refresh</string>
+    <string name="size_of_the_display_without_subtracting_any_window_decor_or_applying_any_compatibility_scale_factors">Size of the display without subtracting any window decor or applying any compatibility scale factors.</string>
+    <string name="gets_the_size_of_the_display_in_pixels_value_showed_here_does_not_necessarily_represent_the_actual_raw_size_native_resolution_of_the_display">Gets the size of the display, in pixels. Value showed here does not necessarily represent the actual raw size (native resolution) of the display.</string>
+</resources>
