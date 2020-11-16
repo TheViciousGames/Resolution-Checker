@@ -6,8 +6,7 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Resolution Checker-Source Code
-
+Resolution Checker-Source Code<br
 Full project can be found on master branch.
 
 If you want to help:
