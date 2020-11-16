@@ -11,8 +11,7 @@ Full project can be found on master branch.
 
 If you want to help:
 
-1.Download app 
-
+1.Download app <br/>
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
     alt="Get it on Google Play"
     height="90">](https://play.google.com/store/apps/details?id=com.theviciousgames.resolutionchecker)<br/>
