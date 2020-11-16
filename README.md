@@ -18,7 +18,7 @@ If you want to help:
     height="90">](https://play.google.com/store/apps/details?id=com.theviciousgames.resolutionchecker)<br/>
 2.After a few days leave a good review.
 
-Paypal: paypal.me/tulituvlad
+Paypal: paypal.me/tulituvlad <br/>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/tulituvlad)
 
 Website: theviciousgames.com
