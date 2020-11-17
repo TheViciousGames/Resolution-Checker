@@ -22,4 +22,7 @@ Paypal: paypal.me/tulituvlad <br/>
 
 Website: theviciousgames.com
 
+If you cannot use Google: <br/>
+https://discord.gg/zpQVbrYkQ7
+
 
